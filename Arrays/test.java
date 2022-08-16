@@ -13,8 +13,5 @@ class Arrays
       //print the number
       System.out.println(arr[0]);   
       System.out.println(arr.length);  
-      
-      
-       
     }
 }
